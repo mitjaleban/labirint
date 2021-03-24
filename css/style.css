@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant Unicase');
+body  {
+  font-family:"Cormorant Unicase";
+  background-image: url("ozadje.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+	
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding:10px 20px 10px 020px;
+
+	font-family:"Cormorant Unicase";
+	transition:0.2s;
+}
+button:hover {
+    background-color: white;
+    color: black;
+	font-weight:bolder;
+}
+h1{
+	font-size:60px;
+	margin-left: 9%;
+	color: black;
+}
+.naslov{
+	 position: relative;
+	 margin-top: -10%;
+	 
+}
+}
+
+.container {
+    position: relative;
+}
+
+.container .canvas {
+    position: relative;
+}
+
+.container .canvas .bt1{
+    position: relative;
+    padding: 5%;
+    margin-left: 33%;
+}
+
